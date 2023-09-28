@@ -1,0 +1,7 @@
+# exclude everything
+Work/*
+Packages/*
+
+# exception to the rule
+!Work/.gitkeep 
+!Packages/.gitkeep 
